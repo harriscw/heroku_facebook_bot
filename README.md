@@ -44,6 +44,6 @@ This was an exercise in creating a basic facebook chat bot.  It has now been tak
   
 ## Main Takeaways
 
-- Its fairly easy to get a basic bot up and running
-- Don't need to be strong in Python, mainly copy and paste
-- These bots are very basic but you can see the potential for tons of creativity
+- Its pretty easy to get a basic bot up and running
+- Don't need to be super strong in Python, mainly copy and paste
+- These bots are very basic but tons of room for creativity
